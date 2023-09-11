@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/UI/Method_1.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/RR/P81I8L5JEZI5TBXMGZE6TU.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/35/AGZQKNSX2RTDXEJCJWFA3H.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/F6/HRZ4YZIGF1YFZ877EQ4L8F.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/41/U2X16P1IPVKVN6HEXN8OFT.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TX/ZYI76HD3P4DT5XYCAA3DWY.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/07/3IZXG79FNRZRGV70D4V33A.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/FL/66KX6FVQK3XWZP9Z0T5OAT.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PP/T40Z8OJMO3OO4W8WVF9VKU.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/4G/Q1SAKBWBVTT9195M7AKZA2.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VH/SEE1M2DNAM049KDYDS7MCF.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DF/FK0DCSCP7K7VFN7S0NH5GA.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/UI/Recipe_1.uasset",
+				"C:/Users/simps/OneDrive/Documents/Unreal Projects/BartendingSim/BartendingSim_JoelSimpson/Content/UI/Method_2.uasset"
+			]
+		}
+	]
+}
